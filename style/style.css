@@ -1,0 +1,25 @@
+* {
+  font-family: " Edu NSW ACT Cursive";
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+div {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+ border: 2px solid black;
+height: 500px;
+width: 500px;
+background: linear-gradient(to left, rgb(125, 201, 252), white,rgb(80, 201, 248));
+}
+img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 10px black ;
+ 
+}
